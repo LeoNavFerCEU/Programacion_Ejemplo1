@@ -5,12 +5,12 @@ public class P1 {
 		// TODO Auto-generated method stub
 		System.out.println("Hola");
 		
-		int suma = 0;
-		for (int cont = 0; cont < 10; cont++) {
-			cont ++;
-			suma += cont;
+		int addittion = 0;
+		for (int count = 0; count < 10; count++) {
+			count ++;
+			addittion += count;
 		}
-		System.out.println(suma);
+		System.out.println(addittion);
 
 	}
 
